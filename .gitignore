@@ -6,7 +6,8 @@ web_storage
 core/web_storage
 node_modules
 venv
-
+*.DS_STORE
+**/*.DS_STORE
 ui/**/*.js
 ui/**/*.js.map
 ui/**/*.css
